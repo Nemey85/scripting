@@ -23,3 +23,4 @@ echo '$*:' $*
 echo '$@:' $@
 date
 echo '$?:' $?
+#Displays the status of the last run command
